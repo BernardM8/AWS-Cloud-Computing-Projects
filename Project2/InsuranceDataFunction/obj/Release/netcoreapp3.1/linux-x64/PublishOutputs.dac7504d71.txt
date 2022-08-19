@@ -1,0 +1,7 @@
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\InsuranceDataFunction.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\InsuranceDataFunction.deps.json
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\InsuranceDataFunction.runtimeconfig.json
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\InsuranceDataFunction.pdb
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.SQSEvents.dll

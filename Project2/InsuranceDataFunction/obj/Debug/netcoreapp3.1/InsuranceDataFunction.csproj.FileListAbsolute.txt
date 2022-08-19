@@ -1,0 +1,16 @@
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\InsuranceDataFunction.deps.json
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\InsuranceDataFunction.runtimeconfig.json
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\InsuranceDataFunction.runtimeconfig.dev.json
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\InsuranceDataFunction.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\InsuranceDataFunction.pdb
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\bin\Debug\netcoreapp3.1\Amazon.Lambda.SQSEvents.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.AssemblyInfoInputs.cache
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.AssemblyInfo.cs
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.csproj.CoreCompileInputs.cache
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.csproj.CopyComplete
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.dll
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.pdb
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.genruntimeconfig.cache
+C:\Users\Bernard M\source\repos\Project2Master\InsuranceDataFunction\obj\Debug\netcoreapp3.1\InsuranceDataFunction.csprojAssemblyReference.cache
