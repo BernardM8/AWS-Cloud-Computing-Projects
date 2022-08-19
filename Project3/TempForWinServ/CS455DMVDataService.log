@@ -1,0 +1,64 @@
+Date:6/17/2021 2:34:46 PM -07:00:	 Read message:{
+  "plate": "3ZZB646",
+  "date": "6/17/2021 2:34:30 PM -07:00",
+  "violation": "no full stop on right",
+  "address": "Main St and 116th AVE intersection. Bellevue"
+}
+Date:6/17/2021 2:34:46 PM -07:00:	 Posted message:{
+  "plate": "3ZZB646",
+  "date": "6/17/2021 2:34:30 PM -07:00",
+  "violation": "no full stop on right",
+  "address": "Main St and 116th AVE intersection. Bellevue",
+  "vehicle": "Silver Honda CRV",
+  "language": "french",
+  "name": "Chantal Barbier",
+  "phone": "14256667777"
+}
+Date:6/18/2021 10:38:45 AM -07:00:	 Read message:{
+  "plate": "5ALN015",
+  "date": "6/18/2021 10:38:32 AM -07:00",
+  "violation": "no stop",
+  "address": "Harvard Street Anaheim. CA 92805"
+}
+Date:6/18/2021 10:38:45 AM -07:00:	 Posted message:{
+  "plate": "5ALN015",
+  "date": "6/18/2021 10:38:32 AM -07:00",
+  "violation": "no stop",
+  "address": "Harvard Street Anaheim. CA 92805",
+  "vehicle": "Blue Honda Civic",
+  "language": "spanish",
+  "name": "Jose Garcia",
+  "phone": "14256667777"
+}
+Date:6/18/2021 10:50:11 AM -07:00:	 Read message:{
+  "plate": "6TRJ244",
+  "date": "6/18/2021 10:49:54 AM -07:00",
+  "violation": "no full stop on right",
+  "address": "Harvard Street Anaheim. CA 92805"
+}
+Date:6/18/2021 10:50:12 AM -07:00:	 Posted message:{
+  "plate": "6TRJ244",
+  "date": "6/18/2021 10:49:54 AM -07:00",
+  "violation": "no full stop on right",
+  "address": "Harvard Street Anaheim. CA 92805",
+  "vehicle": "Red Ford Focus",
+  "language": "english",
+  "name": "John Smith",
+  "phone": "14256667777"
+}
+Date:6/18/2021 10:50:49 AM -07:00:	 Read message:{
+  "plate": "5ALN015",
+  "date": "6/18/2021 10:50:44 AM -07:00",
+  "violation": "no stop",
+  "address": "Main St and 116th AVE intersection. Bellevue"
+}
+Date:6/18/2021 10:50:49 AM -07:00:	 Posted message:{
+  "plate": "5ALN015",
+  "date": "6/18/2021 10:50:44 AM -07:00",
+  "violation": "no stop",
+  "address": "Main St and 116th AVE intersection. Bellevue",
+  "vehicle": "Blue Honda Civic",
+  "language": "spanish",
+  "name": "Jose Garcia",
+  "phone": "14256667777"
+}
