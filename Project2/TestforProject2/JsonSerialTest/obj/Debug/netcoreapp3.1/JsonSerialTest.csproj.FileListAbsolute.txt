@@ -1,0 +1,12 @@
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\bin\Debug\netcoreapp3.1\JsonSerialTest.exe
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\bin\Debug\netcoreapp3.1\JsonSerialTest.deps.json
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\bin\Debug\netcoreapp3.1\JsonSerialTest.runtimeconfig.json
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\bin\Debug\netcoreapp3.1\JsonSerialTest.runtimeconfig.dev.json
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\bin\Debug\netcoreapp3.1\JsonSerialTest.dll
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\bin\Debug\netcoreapp3.1\JsonSerialTest.pdb
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\obj\Debug\netcoreapp3.1\JsonSerialTest.AssemblyInfoInputs.cache
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\obj\Debug\netcoreapp3.1\JsonSerialTest.AssemblyInfo.cs
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\obj\Debug\netcoreapp3.1\JsonSerialTest.csproj.CoreCompileInputs.cache
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\obj\Debug\netcoreapp3.1\JsonSerialTest.dll
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\obj\Debug\netcoreapp3.1\JsonSerialTest.pdb
+C:\Users\Bernard M\source\repos\TestforProject2\JsonSerialTest\obj\Debug\netcoreapp3.1\JsonSerialTest.genruntimeconfig.cache

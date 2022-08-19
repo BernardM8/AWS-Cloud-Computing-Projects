@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAsT3jj6cmkGF0oDrSDM347lrXowBEqpa8t1W8Lg6IfuBBv8G4sjZUN6yQECgAP7PA8zG/IjDOH2dcc292R2yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\TestforProject2\\ServiceTestQueues\\ServiceTestQueues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.sqs\\3.7.0.30\\awssdk.sqs.3.7.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

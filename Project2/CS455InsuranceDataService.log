@@ -1,0 +1,36 @@
+Date:6/14/2021 10:30:47 AM -07:00:	 Read message:{
+  "id": "10001",
+  "name": "John Smith"
+}
+Date:6/14/2021 10:30:48 AM -07:00:	 Posted message:{
+  "id": "10001",
+  "policyNumber": "AFF-234-667788",
+  "provider": "Liberty Mutual"
+}
+Date:6/14/2021 10:31:02 AM -07:00:	 Read message:{
+  "id": "10002",
+  "name": "Sandra Summer"
+}
+Date:6/14/2021 10:31:02 AM -07:00:	 Posted message:{
+  "id": "10002",
+  "policyNumber": "none",
+  "provider": "none"
+}
+Date:6/14/2021 10:31:39 AM -07:00:	 Read message:{
+  "id": "10003",
+  "name": "Dawn Fink"
+}
+Date:6/14/2021 10:31:39 AM -07:00:	 Posted message:{
+  "id": "10003",
+  "policyNumber": "DCH-776-334455",
+  "provider": "State Farm"
+}
+Date:6/14/2021 10:45:58 AM -07:00:	 Read message:{
+  "id": "10001",
+  "name": "John Smith"
+}
+Date:6/14/2021 10:45:58 AM -07:00:	 Posted message:{
+  "id": "10001",
+  "policyNumber": "AFF-234-667788",
+  "provider": "Liberty Mutual"
+}

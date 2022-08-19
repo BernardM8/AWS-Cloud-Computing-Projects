@@ -1,0 +1,188 @@
+AWSTemplateFormatVersion: 2010-09-09
+Metadata:
+  'AWS::CloudFormation::Designer':
+    da61a514-d257-4d7c-bea1-39c23d64ba9b:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 410
+        'y': 80
+      z: 1
+      embeds: []
+      dependson:
+        - 9421b2f8-2e6d-4be1-884d-19b314ca5714
+    9421b2f8-2e6d-4be1-884d-19b314ca5714:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 120
+        'y': 30
+      z: 1
+      embeds: []
+      dependson:
+        - 57739829-91a2-4dec-b183-d7ab0d9d36a8
+    5dc94493-2add-4f45-b71a-dbdc06c23f47:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 120
+        'y': 150
+      z: 1
+      embeds: []
+    57739829-91a2-4dec-b183-d7ab0d9d36a8:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 300
+        'y': 30
+      z: 1
+      embeds: []
+      dependson:
+        - da61a514-d257-4d7c-bea1-39c23d64ba9b
+    6393beb6-fac5-4bd9-9b5e-9774d196e5af:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 450
+        'y': 210
+      z: 1
+      embeds: []
+    9d14ffb4-1518-465e-9e53-276fc7ed7de6:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 240
+        'y': 210
+      z: 1
+      embeds: []
+      dependson:
+        - 7ec472bd-478f-4952-a7be-b11332adf776
+    444f8f3f-1404-4b7b-97e7-6f1c1edb40a2:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 510
+        'y': 80
+      z: 1
+      embeds: []
+    7ec472bd-478f-4952-a7be-b11332adf776:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 350
+        'y': 210
+      z: 0
+      embeds: []
+      dependson:
+        - 6393beb6-fac5-4bd9-9b5e-9774d196e5af
+Resources:
+  IAMRole1:
+    Type: 'AWS::IAM::Role'
+    Properties:
+      RoleName: project2-role
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: 'sts:AssumeRole'
+      ManagedPolicyArns:
+        - 'arn:aws:iam::aws:policy/AWSLambdaExecute'
+        - 'arn:aws:iam::aws:policy/AmazonSQSFullAccess'
+        - 'arn:aws:iam::aws:policy/AmazonS3FullAccess'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 5dc94493-2add-4f45-b71a-dbdc06c23f47
+  patientreaderfunction:
+    Type: 'AWS::Lambda::Function'
+    Properties:
+      FunctionName: patientreaderfunction
+      Description: retrieve patient data from S3
+      Handler: 'PatientReaderFunction::PatientReaderFunction.Function::FunctionHandler'
+      Runtime: dotnetcore3.1
+      Timeout: 20
+      Code:
+        S3Bucket: bernard-code-and-cloudformation-bucket1
+        S3Key: PatientReaderFunction.zip
+      Role: !GetAtt 
+        - IAMRole1
+        - Arn
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: da61a514-d257-4d7c-bea1-39c23d64ba9b
+  s3lambdapermissions:
+    Type: 'AWS::Lambda::Permission'
+    DependsOn:
+      - patientreaderfunction
+    Properties:
+      FunctionName: !Ref patientreaderfunction
+      Action: 'lambda:InvokeFunction'
+      Principal: s3.amazonaws.com
+      SourceAccount: !Ref 'AWS::AccountId'
+      SourceArn: 'arn:aws:s3:::project2s3bucket'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 57739829-91a2-4dec-b183-d7ab0d9d36a8
+  InputDataBucket:
+    Type: 'AWS::S3::Bucket'
+    DependsOn:
+      - patientreaderfunction
+      - s3lambdapermissions
+    Properties:
+      BucketName: project2s3bucket
+      NotificationConfiguration:
+        LambdaConfigurations:
+          - Function: !GetAtt 
+              - patientreaderfunction
+              - Arn
+            Event: 's3:ObjectCreated:Put'
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 9421b2f8-2e6d-4be1-884d-19b314ca5714
+  InsuranceDataFunction:
+    Type: 'AWS::Lambda::Function'
+    Properties:
+      FunctionName: InsuranceDataFunction
+      Description: retrieve insurance data from UpperQueue
+      Handler: 'InsuranceDataFunction::InsuranceDataFunction.Function::FunctionHandler'
+      Runtime: dotnetcore3.1
+      Code:
+        S3Bucket: bernard-code-and-cloudformation-bucket1
+        S3Key: InsuranceDataFunction.zip
+      Role: !GetAtt 
+        - IAMRole1
+        - Arn
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 9d14ffb4-1518-465e-9e53-276fc7ed7de6
+  DownwardQueue:
+    Type: 'AWS::SQS::Queue'
+    Properties:
+      QueueName: downwardqueue
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 444f8f3f-1404-4b7b-97e7-6f1c1edb40a2
+  EventSourceUppwardQueue:
+    Type: 'AWS::Lambda::EventSourceMapping'
+    Properties:
+      FunctionName: !GetAtt InsuranceDataFunction.Arn
+      EventSourceArn: !GetAtt UpwardQueue.Arn
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 7ec472bd-478f-4952-a7be-b11332adf776
+  UpwardQueue:
+    Type: 'AWS::SQS::Queue'
+    Properties:
+        QueueName: upwardqueue
+    Metadata:
+          'AWS::CloudFormation::Designer':
+            id: 6393beb6-fac5-4bd9-9b5e-9774d196e5af        

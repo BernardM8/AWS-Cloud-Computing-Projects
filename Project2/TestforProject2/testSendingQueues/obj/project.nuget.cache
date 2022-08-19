@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hboKv4jxNT9FZV3O32G5qaCQdeIMlbnW/qA/T+n8qed1ISrBGsZTPfNnh78mUwbTyX4IkQZBUIi5WOdXD2SvoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\TestforProject2\\testSendingQueues\\testSendingQueues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.sqs\\3.7.0.30\\awssdk.sqs.3.7.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

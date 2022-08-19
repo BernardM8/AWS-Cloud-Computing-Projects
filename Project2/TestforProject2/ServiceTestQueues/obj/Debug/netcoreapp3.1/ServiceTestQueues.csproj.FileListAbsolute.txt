@@ -1,0 +1,16 @@
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\ServiceTestQueues.exe
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\ServiceTestQueues.deps.json
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\ServiceTestQueues.runtimeconfig.json
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\ServiceTestQueues.runtimeconfig.dev.json
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\ServiceTestQueues.dll
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\ServiceTestQueues.pdb
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.AssemblyInfoInputs.cache
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.AssemblyInfo.cs
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.csproj.CoreCompileInputs.cache
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.csproj.CopyComplete
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.dll
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.pdb
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.genruntimeconfig.cache
+C:\Users\Bernard M\source\repos\TestforProject2\ServiceTestQueues\obj\Debug\netcoreapp3.1\ServiceTestQueues.csprojAssemblyReference.cache

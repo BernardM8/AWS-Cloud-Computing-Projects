@@ -1,0 +1,16 @@
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\testSendingQueues.exe
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\testSendingQueues.deps.json
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\testSendingQueues.runtimeconfig.json
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\testSendingQueues.runtimeconfig.dev.json
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\testSendingQueues.dll
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\testSendingQueues.pdb
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.csprojAssemblyReference.cache
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.AssemblyInfoInputs.cache
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.AssemblyInfo.cs
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.csproj.CoreCompileInputs.cache
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.csproj.CopyComplete
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.dll
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.pdb
+C:\Users\Bernard M\source\repos\TestforProject2\testSendingQueues\obj\Debug\netcoreapp3.1\testSendingQueues.genruntimeconfig.cache
