@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6Nk8deajc/DAjOewEZnLh0CckJwn41FXCEEjCZht8pI9AZ8kThste5mWpCyKubm1fw85KGO74niFazj0vFjnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\MasterProject3\\platereaderfunction2\\platereaderfunction2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.s3events\\1.2.0\\amazon.lambda.s3events.1.2.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.5.1.58\\awssdk.core.3.5.1.58.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.rekognition\\3.5.2.31\\awssdk.rekognition.3.5.2.31.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.s3\\3.5.7.5\\awssdk.s3.3.5.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

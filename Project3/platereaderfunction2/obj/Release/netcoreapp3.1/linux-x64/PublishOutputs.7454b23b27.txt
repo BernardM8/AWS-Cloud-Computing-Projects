@@ -1,0 +1,10 @@
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\platereaderfunction2.dll
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\platereaderfunction2.deps.json
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\platereaderfunction2.runtimeconfig.json
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\platereaderfunction2.pdb
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\AWSSDK.Rekognition.dll
+C:\Users\Bernard M\source\repos\MasterProject3\platereaderfunction2\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll
