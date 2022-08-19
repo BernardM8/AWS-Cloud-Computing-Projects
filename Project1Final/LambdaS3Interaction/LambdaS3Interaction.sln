@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessS3Event", "ProcessS3Event\ProcessS3Event.csproj", "{EE55E977-E605-457B-B7A4-3E5909B4AE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE55E977-E605-457B-B7A4-3E5909B4AE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE55E977-E605-457B-B7A4-3E5909B4AE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE55E977-E605-457B-B7A4-3E5909B4AE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE55E977-E605-457B-B7A4-3E5909B4AE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E9A957-6F67-4302-94FE-EBCFCB4EAB13}
+	EndGlobalSection
+EndGlobal

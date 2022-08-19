@@ -1,0 +1,11 @@
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\ProcessS3Event.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\ProcessS3Event.deps.json
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\ProcessS3Event.runtimeconfig.json
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\ProcessS3Event.pdb
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\Npgsql.dll
+C:\Users\Bernard M\source\repos\LambdaS3Interaction\ProcessS3Event\bin\Release\netcoreapp3.1\publish\System.Runtime.CompilerServices.Unsafe.dll

@@ -1,0 +1,147 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProcessS3Event/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.5.7.5",
+          "Amazon.Lambda.Core": "1.2.0",
+          "Amazon.Lambda.S3Events": "1.2.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.1.0",
+          "Npgsql": "6.0.0-preview2"
+        },
+        "runtime": {
+          "ProcessS3Event.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.S3Events/1.2.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.5.7.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Lambda.S3Events.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.1.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "1.2.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.5.1.58": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.58"
+          }
+        }
+      },
+      "AWSSDK.S3/3.5.7.5": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.58"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.7.5"
+          }
+        }
+      },
+      "Npgsql/6.0.0-preview2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Npgsql.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcessS3Event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-goaq1LaH1UJB18BNG/Apxmn0P7dAlLWFbxU2nKxK+M4lH2KJaZDbtlP2gFEAJ+aENOMBHthaLPEtk3944J2OOg==",
+      "path": "amazon.lambda.core/1.2.0",
+      "hashPath": "amazon.lambda.core.1.2.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.S3Events/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Q092CYTFPeI0mYAo9NKsBKEtof2Q5dweGtBVQsH8u/gjMYph1kPJYNEMCkFOLZQDqQe1fRNfoITkzUiioByCQ==",
+      "path": "amazon.lambda.s3events/1.2.0",
+      "hashPath": "amazon.lambda.s3events.1.2.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q2R4I77NrrAHDpcaWby9VA/XhE1tjG/2kpredwucRq7k4dTPCqqB7OFmbiFdlfuErrp2/9+X1l62c4unwVicpw==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.1.0",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.5.1.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hXYOU6ov1iEgYhlvDbXHruSYL7TApdDNjugRLmFUY0Y11Ojnv8MHysoQ9kQI1xqF/VBdrqCnMektXX/FVUTl5A==",
+      "path": "awssdk.core/3.5.1.58",
+      "hashPath": "awssdk.core.3.5.1.58.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.5.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FxgEjKWANdNQchAkjLrXZwi0E9rgUbR1pLHXy0GY6y/leaflyDOR+JcOf6njyMwhUk7Mu0iiBWTT08m/0s7w4w==",
+      "path": "awssdk.s3/3.5.7.5",
+      "hashPath": "awssdk.s3.3.5.7.5.nupkg.sha512"
+    },
+    "Npgsql/6.0.0-preview2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sgjrvnriz5Bx7S16t4uPThrci3of0q647OYuz79Kl2df672hU/9TjVrX6ykWrIl6/aNFSHpJ9j3Zxy1v8dfk5Q==",
+      "path": "npgsql/6.0.0-preview2",
+      "hashPath": "npgsql.6.0.0-preview2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZD9TMpsmYJLrxbbmdvhwt9YEgG5WntEnZ/d1eH8JBX9LBp+Ju8BSBhUGbZMNVHHomWo2KVImJhTDl2hIgw/6MA==",
+      "path": "system.runtime.compilerservices.unsafe/5.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    }
+  }
+}

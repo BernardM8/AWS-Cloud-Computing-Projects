@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3dtt1n9P2y8sqRTVC4xgWXz1VEtCudDVwOioY4NP5JogQsrs2CWD33lnmExeVLyet9sppFZusLM6nc24ksW6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\Project1UploadFiles\\UploadData\\UploadData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.7.0.21\\awssdk.core.3.7.0.21.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.s3\\3.7.0.22\\awssdk.s3.3.7.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

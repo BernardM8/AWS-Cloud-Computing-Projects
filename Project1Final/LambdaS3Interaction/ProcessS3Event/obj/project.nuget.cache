@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fX8+NqaYAgce7uLRR/CuAiQA4HDdCBB2POwdKhkPS+EgdQ9Uwsz80v/w6jZqa7ZrsIEJafe85xjbtt867WfaKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\LambdaS3Interaction\\ProcessS3Event\\ProcessS3Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.s3events\\1.2.0\\amazon.lambda.s3events.1.2.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.5.1.58\\awssdk.core.3.5.1.58.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.s3\\3.5.7.5\\awssdk.s3.3.5.7.5.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\npgsql\\6.0.0-preview2\\npgsql.6.0.0-preview2.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
