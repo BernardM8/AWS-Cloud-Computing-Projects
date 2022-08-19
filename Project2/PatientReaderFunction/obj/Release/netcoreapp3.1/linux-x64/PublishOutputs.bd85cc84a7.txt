@@ -1,0 +1,10 @@
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\PatientReaderFunction.dll
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\PatientReaderFunction.deps.json
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\PatientReaderFunction.runtimeconfig.json
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\PatientReaderFunction.pdb
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll
+C:\Users\Bernard M\source\repos\Project2Master\PatientReaderFunction\bin\Release\netcoreapp3.1\publish\AWSSDK.SQS.dll

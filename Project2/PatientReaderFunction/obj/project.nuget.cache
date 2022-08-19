@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEQcskCYRYKGLcN9oJRr9J9ZObvRmFRvPRxz6KH8PvJ7mkvAzVMxUNXY13lOOFKLEGVJjZoYPHnc4+YxXNZRPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\Project2Master\\PatientReaderFunction\\PatientReaderFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.s3events\\1.2.0\\amazon.lambda.s3events.1.2.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.s3\\3.7.0.32\\awssdk.s3.3.7.0.32.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.sqs\\3.7.0.30\\awssdk.sqs.3.7.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
