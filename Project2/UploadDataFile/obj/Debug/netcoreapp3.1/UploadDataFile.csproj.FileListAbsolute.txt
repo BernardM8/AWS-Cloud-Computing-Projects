@@ -1,0 +1,16 @@
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.AssemblyInfoInputs.cache
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.AssemblyInfo.cs
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.csproj.CoreCompileInputs.cache
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\UploadDataFile.exe
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\UploadDataFile.deps.json
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\UploadDataFile.runtimeconfig.json
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\UploadDataFile.runtimeconfig.dev.json
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\UploadDataFile.dll
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\UploadDataFile.pdb
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.csproj.CopyComplete
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.dll
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.pdb
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.genruntimeconfig.cache
+C:\Users\Bernard M\source\repos\Project2Master\UploadDataFile\obj\Debug\netcoreapp3.1\UploadDataFile.csprojAssemblyReference.cache
