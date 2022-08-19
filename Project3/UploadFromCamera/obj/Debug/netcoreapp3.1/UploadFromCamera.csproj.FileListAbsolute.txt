@@ -1,0 +1,16 @@
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\UploadFromCamera.exe
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\UploadFromCamera.deps.json
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\UploadFromCamera.runtimeconfig.json
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\UploadFromCamera.runtimeconfig.dev.json
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\UploadFromCamera.dll
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\UploadFromCamera.pdb
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.csprojAssemblyReference.cache
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.AssemblyInfoInputs.cache
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.AssemblyInfo.cs
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.csproj.CoreCompileInputs.cache
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.csproj.CopyComplete
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.dll
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.pdb
+C:\Users\Bernard M\source\repos\MasterProject3\UploadFromCamera\obj\Debug\netcoreapp3.1\UploadFromCamera.genruntimeconfig.cache

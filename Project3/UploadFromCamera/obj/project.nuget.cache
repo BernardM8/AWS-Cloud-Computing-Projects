@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o0WhE1EIXiLeRVdcytC5P9emXBAnLJ7hIxT3oEQjkX+ZpD8qZjbkB+37NP5b/bgFvaL0rWCbekQe1+rQp+ne8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bernard M\\source\\repos\\MasterProject3\\UploadFromCamera\\UploadFromCamera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Bernard M\\.nuget\\packages\\awssdk.s3\\3.7.1.1\\awssdk.s3.3.7.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
